@@ -1,7 +1,17 @@
 {
   "packs": [
     "Project_Sekai_Miku.json",
-    "Project_Sekai_Luka.json"
+    "Project_Sekai_Luka.json",
+    "Project_Sekai_Rin.json",
+    "Project_Sekai_Len.json",
+    "LINE_-_Hatsune__Kagamine_POM_Ver..json",
+    "Spy_x_Family_Toji_sama.json",
+    "The_Legend_of_Zelda.json",
+    "Wolf_Link.json",
+    "Gravity_Falls.json",
+    "H.P._Lovecraft.json",
+    "Viking.json",
+    "Alice_Fox.json"
   ],
   "homeserver_url": "https://matrix.4d2.org"
 }
