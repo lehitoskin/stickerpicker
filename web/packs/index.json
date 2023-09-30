@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "Project_Sekai_Miku.json",
+    "Project_Sekai_Luka.json"
+  ],
+  "homeserver_url": "https://matrix.4d2.org"
+}
